@@ -6,6 +6,25 @@ This repository accompanies a systematic survey of **large language model (LLM) 
 
 ---
 
+## Table of Contents
+
+- [LLM4Log: A Survey of Large Language Models for Log Analysis](#llm4log-a-survey-of-large-language-models-for-log-analysis)
+  - [Table of Contents](#table-of-contents)
+  - [Overview \& Statistics](#overview--statistics)
+    - [Pipeline](#pipeline)
+    - [Temporal and Task Distribution](#temporal-and-task-distribution)
+  - [Papers](#papers)
+    - [Logging](#logging)
+    - [Log Parsing](#log-parsing)
+    - [Log Representation](#log-representation)
+    - [Anomaly Detection](#anomaly-detection)
+    - [Failure Prediction](#failure-prediction)
+    - [Root Cause Analysis](#root-cause-analysis)
+    - [Log Summary](#log-summary)
+  - [License](#license)
+
+---
+
 ## Overview & Statistics
 
 ### Pipeline
@@ -26,25 +45,6 @@ The following figures show the temporal and overall distribution of collected pa
 </table>
 
 **Note:** In the pie chart, labels are in the form **n (u)**: *n* = number of task-wise paper counts (not deduplicated); *u* = number of unique papers (deduplicated).
-
----
-
-## Table of Contents
-
-- [LLM4Log: A Survey of Large Language Models for Log Analysis](#llm4log-a-survey-of-large-language-models-for-log-analysis)
-  - [Overview \& Statistics](#overview--statistics)
-    - [Pipeline](#pipeline)
-    - [Temporal and Task Distribution](#temporal-and-task-distribution)
-  - [Table of Contents](#table-of-contents)
-  - [Papers](#papers)
-    - [Logging](#logging)
-    - [Log Parsing](#log-parsing)
-    - [Log Representation](#log-representation)
-    - [Anomaly Detection](#anomaly-detection)
-    - [Failure Prediction](#failure-prediction)
-    - [Root Cause Analysis](#root-cause-analysis)
-    - [Log Summary](#log-summary)
-  - [License](#license)
 
 ---
 
