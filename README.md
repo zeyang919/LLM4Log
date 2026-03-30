@@ -1,6 +1,6 @@
 # LLM4Log: A Survey of Large Language Models for Log Analysis
 
-This repository accompanies a systematic survey of **large language model (LLM) based log analysis**. It gathers works that apply LLMs or related pre-trained language models to tasks such as logging generation, log parsing, log representation, anomaly detection, failure prediction, root cause analysis, and log summarization.
+This repository accompanies a systematic survey of **large language model (LLM) based log analysis**. It gathers works that apply LLMs or related pre-trained language models to tasks such as logging generation, log parsing, log representation, anomaly detection, failure prediction, root cause analysis, and log summarization. [[Paper Link]](https://zeyang919.github.io/paper/LLM4Log_Survey.pdf)
 
 **Paper collection cutoff: November 2025.**
 
