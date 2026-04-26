@@ -1,0 +1,5 @@
+Title,Link,Year,Venue,Training,Dataset Type,Output,Metrics,Baseline LLM(s),Compared LLMs
+CrashEventLLM: Predicting System Crashes with Large Language Model,https://arxiv.org/pdf/2407.15716,2024,ICITCOM 2024,yes,log,time and cause,ROUGE,Llama-7B,Llama-13B
+FALL: Prior Failure Detection in Large Scale System Based on Language Mode,https://ieeexplore.ieee.org/document/10517618,2025,IEEE Transactions on Dependable and Secure Computing,yes,log,anomaly score,AUC SCORE,ELECTRA,
+Combining LLMs and Shell Logs to Predict Backup Failures,https://www.researchgate.net/publication/393329439_COMBINING_LLMS_AND_SHELL_LOGS_TO_PREDICT_BACKUP_FAILURES,2025,,,,,,,
+Virtual Machine Proactive Fault Tolerance Using Log-Based Anomaly Detection,https://ieeexplore.ieee.org/document/10767421,2024,IEEE Access,,,,,,
