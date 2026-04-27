@@ -1,6 +1,0 @@
-Title,Link,Year,Venue,Training,Dataset Type,Output,Metrics,Baseline LLM(s),Compared LLMs
-LogEval: A Comprehensive Benchmark Suite for LLMs in Log Analysis,https://arxiv.org/pdf/2407.01896,2025,EMSE,yes,log,Log Summary,"accuracy and ROUGE-1, F1",GPT-4,"GPT-3.5, Claude3 Sonnet, Gemini Pro, Mistral, InternLM2-Chat, DevOps-Model-Chat ,AquilaChat, ChatGLM4, LLaMA-2, Qwen-1.5-Chat , Baichuan2-Chat"
-logSage: Log Summarization Assistant with Guided Enhancement,https://dl.acm.org/doi/10.1145/3672608.3707990,2025,SAC '25,,,,,,
-LogLM: From Task-based to Instruction-based Automated Log Analysis,https://arxiv.org/pdf/2410.09352?,2025,,yes,log,Interpretation,"BLEU, ROUGE-1,ROUGE-2,ROUGE-L",LLaMA2-7B,"LLaMA-3-70B, LLaMA-3.1-405B, Claude-3.5-Sonne, GPT-4, OWL-7B"
-LogLead,https://arxiv.org/pdf/2311.11809,2024,SANER 2024,,-,-,-,-,-
-Adapting Large Language Models to Log Analysis with Interpretable Domain Knowledge,https://arxiv.org/pdf/2412.01377?,2025,CIKM '25,yes,log,Interpretation,manual scoring,LLaMA-2-7B,"Qwen2-0.5B, Qwen2-1.5B, LLaMA3.1-8B, OWL-7B"
